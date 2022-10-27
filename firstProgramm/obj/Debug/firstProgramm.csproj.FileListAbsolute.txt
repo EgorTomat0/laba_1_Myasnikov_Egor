@@ -1,0 +1,7 @@
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\bin\Debug\firstProgramm.exe
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\bin\Debug\firstProgramm.pdb
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\obj\Debug\firstProgramm.csproj.AssemblyReference.cache
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\obj\Debug\firstProgramm.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\obj\Debug\firstProgramm.csproj.CoreCompileInputs.cache
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\obj\Debug\firstProgramm.exe
+C:\Users\egork\RiderProjects\firstProgramm\firstProgramm\obj\Debug\firstProgramm.pdb
